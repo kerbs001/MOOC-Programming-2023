@@ -1,0 +1,1 @@
+        print(f"*{word_txt}*", end=" ")
