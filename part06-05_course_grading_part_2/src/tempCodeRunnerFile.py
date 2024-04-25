@@ -1,0 +1,1 @@
+print(f"{name:30}{sum_exer_pts[id]:10}{exer_grade:10}{final_grade:10}{final_grade:10}{equiv_grade:10}")
