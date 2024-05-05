@@ -1,0 +1,7 @@
+    dexter = Series("Dexter", 8, ["Crime", "Drama", "Mystery", "Thriller"])
+    dexter.rate(4)
+    dexter.rate(5)
+    dexter.rate(5)
+    dexter.rate(3)
+    dexter.rate(0)
+    print(dexter)
